@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://fujurt.com/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dmklon1yi/image/upload/v1697959863/Fujurt%20X/xpucl6kfi6h8y9tjf64b.png">
-      <img alt="Fujurt logo" src="https://res.cloudinary.com/dmklon1yi/image/upload/v1697959863/Fujurt%20X/xpucl6kfi6h8y9tjf64b.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dmklon1yi/image/upload/v1697986734/Fujurt/xiknoc16uit2bjyv7n51.png">
+      <img alt="Fujurt logo" src="https://res.cloudinary.com/dmklon1yi/image/upload/v1697986734/Fujurt/xiknoc16uit2bjyv7n51.png">
     </picture>
   </a>
 </p>
@@ -74,8 +74,8 @@ and may be redistributed under the terms specified in the [LICENSE] file.
 
 <a href="https://fujurt.com/">
   <picture style="width: 128px; margin-bottom: 1rem;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dmklon1yi/image/upload/v1697959863/Fujurt%20X/xpucl6kfi6h8y9tjf64b.png">
-    <img alt="Fujurt logo" src="https://res.cloudinary.com/dmklon1yi/image/upload/v1697959863/Fujurt%20X/xpucl6kfi6h8y9tjf64b.png" style="width: 128px; margin-bottom: 1rem;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dmklon1yi/image/upload/v1697986734/Fujurt/xiknoc16uit2bjyv7n51.png">
+    <img alt="Fujurt logo" src="https://res.cloudinary.com/dmklon1yi/image/upload/v1697986734/Fujurt/xiknoc16uit2bjyv7n51.png" style="width: 128px; margin-bottom: 1rem;">
   </picture>
 </a>
 
